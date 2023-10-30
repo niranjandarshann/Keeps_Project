@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Output 
+![Screenshot (71)](https://github.com/niranjandarshann/Keeps_Project/assets/124760321/76f0ebb0-47ec-4948-8c1a-23ea1d707d54)
+![Screenshot (70)](https://github.com/niranjandarshann/Keeps_Project/assets/124760321/c8c71ee2-4683-4a6e-a30c-1be341932d97)
+![Screenshot (69)](https://github.com/niranjandarshann/Keeps_Project/assets/124760321/538cdce1-5350-4c0d-9440-9d3bffd9625d)
+![Screenshot (68)](https://github.com/niranjandarshann/Keeps_Project/assets/124760321/57d286fb-0444-4aeb-9944-ad30c7473618)
+![Screenshot (67)](https://github.com/niranjandarshann/Keeps_Project/assets/124760321/03c41475-391c-46d6-b29d-39e85aa4b8bf)
+![Screenshot (66)](https://github.com/niranjandarshann/Keeps_Project/assets/124760321/85737d31-584d-497e-be4d-3aa6b6ff5478)
+![Screenshot (65)](https://github.com/niranjandarshann/Keeps_Project/assets/124760321/c0429e06-6940-4710-acbb-e85e314e688b)
